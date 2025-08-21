@@ -1,4 +1,4 @@
-# 🪔 Diwali Sales Analysis 📊
+# 🪔 Diwali Sales report 📊
 
 Welcome to a data-driven deep dive into one of India's biggest shopping festivals—**Diwali**! Using real-world retail data sourced from [Kaggle](https://www.kaggle.com/), this project uncovers consumer behavior, spending patterns, and regional trends during the festive season.
 
