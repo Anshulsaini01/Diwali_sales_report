@@ -6,6 +6,7 @@ Welcome to a data-driven deep dive into one of India's biggest shopping festival
 
 ## 🌠 Featured Visual
 
+https://raw.githubusercontent.com/Anshulsaini01/Diwali_sales_report/573ffbfe80326e99dbaf929382158a04846816b1/1*atiUj7THynYVfGbIxy0nLA.jpg<img width="1024" height="624" alt="image" src="https://github.com/user-attachments/assets/95e0ba2c-9600-4f79-85e0-3fb7cdcd696e" />
 
 
 This image captures the essence of Diwali shopping—vibrant, dynamic, and full of insights. It sets the tone for the analysis that follows.
